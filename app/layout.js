@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"ՎահՀոս | Հայկական Գրիլ",description:"Իսկական հայկական խորոված, քյաբաբ և շաուրմա"}; export default function RootLayout({children}){return <html lang="hy"><body>{children}</body></html>}
